@@ -12,7 +12,7 @@
 
 ### 代码
 
-核心代码全集中在一个 Activity 中：[LiteIconPack.java]()，这意味着你可以十分方便地把它融合到其他项目中使用。
+核心代码全集中在一个 Activity 中：[LiteIconPackActivity.java](https://github.com/by-syk/NanoIconPackLite/blob/master/app/src/main/java/com/by_syk/nanoiconpack/lite/LiteIconActivity.java)，这意味着你可以十分方便地把它融合到其他项目中使用。
 
 
 ### 参考
